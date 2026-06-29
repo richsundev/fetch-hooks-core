@@ -96,4 +96,3 @@ If you find this useful, star the repo and share it.
 
 GitHub: https://github.com/felaur/fetch-hooks-core  
 npm: https://npmjs.com/package/fetch-hooks-core
-
